@@ -1,0 +1,1 @@
+Este es un sencillo ejemplo de recibir un enlace por POST para hacerle un GET, así usamos el PHP como proxy para hacer el GET, muy útil si la API no soporta CORS
